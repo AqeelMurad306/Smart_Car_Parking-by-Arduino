@@ -1,5 +1,7 @@
 My Project name is Smart Car Parking by Arduino. This project save time for people who want to park their car, If there's no place for the gate will not open for car and If parking have available place lcd will print out the remaining places.
 
+For Tinkercad Simulation  https://www.tinkercad.com/things/bHAhMxh6ZnV-smart-car-parking .
+
 In this Project I have used:
 
 1. Arduino Uno
